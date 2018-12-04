@@ -1,4 +1,3 @@
 info:
   profile: dev
-  test:
-    zgy: 100
+test: 100
